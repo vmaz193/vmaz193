@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vmaz193
+- 👋 Hi, I’m Andrew Vu @vmaz193
 - 👀 I’m interested in Data Analytic
-- 🌱 I’m currently learning Google Data Analytic Certificate
+- 🌱 I’m achieved Google Data Analytic Certificate
 - 💞️ I’m looking to collaborate on Data Analytic Projects
 - 📫 How to reach me: an.vm193@gmail.com / (408) 498 - 2710
 
