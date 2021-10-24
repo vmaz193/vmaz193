@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Vu @vmaz193
+- 👋 Hi, I’m Andrew Vu (Github @vmaz193)
 - 👀 I’m interested in Data Analytic
 - 🌱 I achieved Google Data Analytic Certificate
 - 💞️ I’m looking to collaborate on Data Analytic Projects
